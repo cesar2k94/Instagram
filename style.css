@@ -1,0 +1,59 @@
+body{
+    background: black;
+   
+}
+.total{
+    background:white;
+    width: 550px;
+    height: 730px;
+    margin: auto;   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+}
+i{
+    font-size: 35px;
+}
+p{
+    font-family: 'Rubik', sans-serif;
+}
+.cabeza{
+    margin: 15px;
+    height: 40px;
+    background: white;
+    display: flex;
+    justify-content:space-between;
+    flex-grow: initial;
+}
+.flex-cabeza{
+    display: flex;
+}
+.flex-cabeza i{
+    margin-right: 8px;
+}
+.parrafos{
+    line-height: 2px;
+    font-size: 13px;       
+}
+.puntos{
+    margin-right: 0px;
+}
+img{
+    width: 550px;
+    height: 430px;
+}
+.final{
+    margin: 15px; 
+    background: white;
+    height: 200px;
+}
+.iconos{
+    display: flex;
+    justify-content:space-between;
+    flex-grow: initial;
+}
+
+
+
+
